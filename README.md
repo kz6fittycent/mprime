@@ -1,6 +1,6 @@
 [![Snap Status](https://build.snapcraft.io/badge/kz6fittycent/mprime.svg)](https://build.snapcraft.io/user/kz6fittycent/mprime)
 
-# mprime (Prime95)
+# mprime
 A snap for mprime
 
 ## About
