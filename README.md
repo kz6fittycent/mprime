@@ -15,3 +15,6 @@ sudo snap install --edge mprime --devmode
 ## To run the snap
 
 From your terminal, type: `mprime`
+
+## NOTE
+This snap does NOT ship with mprime, you MUST have an internet connection in order to download it for the first time. Once downloaded, the snap will initiate the binary. If you remove the snap, you remove the binary (it's stored in the snap's directory). 
