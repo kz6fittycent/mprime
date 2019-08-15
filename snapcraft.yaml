@@ -1,5 +1,5 @@
 name: mprime
-version: git
+version: 'git'
 summary: Free Mersenne Prime Search Software
 description: |
   Prime95 has been a popular choice for stress / torture testing a CPU since its introduction, especially with overclockers and system builders. 
